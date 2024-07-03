@@ -5,9 +5,9 @@ Este projeto é um clone da interface da HBO Max, desenvolvido como parte de um 
 ## Sobre o Projeto
 Este projeto consiste em uma interface web inspirada na HBO Max, onde os usuários podem navegar por conteúdos, escolher planos de assinatura, e simular um processo de login.
 
-### Telas Principais
+### Conteúdos Principais
 - **Página Inicial**: Apresenta o layout principal com categorias de conteúdo e informações sobre os planos de assinatura disponíveis.
-- **Página de Assinatura**: Mostra os diferentes planos de assinatura disponíveis, detalhando as características de cada um.
+- **Lacunas de Assinatura**: Mostra os diferentes planos de assinatura disponíveis, detalhando as características de cada um.
 - **Página de Login**: Permite que usuários façam login utilizando e-mail e senha.
 
 ## Como Usar
