@@ -13,8 +13,9 @@ Este projeto consiste em uma interface web inspirada na HBO Max, onde os usuári
 ## Como Usar
 
 1. Clone este repositório:
-   ```bash
+   ```
    git clone https://github.com/JosielJrr/clone-hbo-max.git
+   ```
 2. Abra os arquivos HTML em seu navegador preferido:
 - `index.html`: Página inicial do site.
 - `signIn.html`: Página de login para simulação.
