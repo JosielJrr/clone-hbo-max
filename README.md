@@ -30,4 +30,4 @@ Este projeto consiste em uma interface web inspirada na HBO Max, onde os usuári
 - CSS3
 
 ## Notas Adicionais
-Esse projeto foi densenvolvido na Formação CSS Web Developer da Digital Innovation One.
+Esse projeto foi desenvolvido na Formação CSS Web Developer da Digital Innovation One.
